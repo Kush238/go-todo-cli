@@ -6,15 +6,15 @@
         "CompletedAt": "2025-03-26T16:12:45.53233227+05:30"
     },
     {
-        "Title": "Buy bread",
-        "Completed": false,
-        "CreatedAt": "2025-03-26T16:12:45.532329204+05:30",
-        "CompletedAt": null
-    },
-    {
-        "Title": "Buy tea",
+        "Title": "Go for a run",
         "Completed": false,
         "CreatedAt": "2025-03-26T16:12:45.532329501+05:30",
         "CompletedAt": null
+    },
+    {
+        "Title": "New todo",
+        "Completed": true,
+        "CreatedAt": "2025-03-27T12:53:21.889786831+05:30",
+        "CompletedAt": "2025-03-27T12:55:11.188807264+05:30"
     }
 ]
